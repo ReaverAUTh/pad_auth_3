@@ -1,2 +1,5 @@
-# pad_auth_3
-Repository for Aristotle Univerisity of Thessaloniki ECE Deparment, Parallel &amp; Distributed Systems' 3rd project 
+# Parallel-Exercise3
+
+#
+Repo for the second exercise of course 050 - Parallel and Distributed Systems, Aristotle University of Thessaloniki, Dpt. of Electrical & Computer Engineering.
+
