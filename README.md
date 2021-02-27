@@ -17,6 +17,7 @@ A Non-Local-Means algorithm implementation using NVIDIA CUDA.
 * Open each .c and .cu file and edit the global variables (PIXELS, PATCH_SIZE, FILTER_SIGMA, PATCH_SIGMA) at the top of the script according to your needs. 
 * PIXELS refers to the size of your image (PIXELSxPIXELS).
 
+\
 **nlm-serial.c:** Serial Implementation
 
 **nlm-cuda.cu:** Implementation using NVIDIA CUDA
