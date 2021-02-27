@@ -23,7 +23,10 @@ A Non-Local-Means algorithm implementation using NVIDIA CUDA.
 * Open each .c and .cu file and edit the global variables (PIXELS, PATCH_SIZE, FILTER_SIGMA, PATCH_SIGMA) at the top of the script according to your needs. 
 * PIXELS refers to the size of your image (PIXELSxPIXELS).
 
-## **2. Local execution**
+## **2. Matlab files**
+The `.m` files contain supplementary functions in order to convert png/txt files. The image used to run the implementations MUST have the name `image.png`. Running the `image_read` file will produce the *noisy_image.txt* and running the `denoised_image_read` file will produce the *filtered_image.png* and *noise_removed.png* files.
+
+## **3. Local execution**
 In order to test the implementations locally on your machine, use the files located in the home directory. Follow the commands in the order given below:
 
 ```
@@ -34,14 +37,14 @@ make all
 
 Make clean should be used if you have already ran the programs before. Instead of filename type the implementation you want to run. All of the above commands are declared in the Makefile.
 
-## **3. HPC execution**
+## **4. HPC execution**
 Everything can be run on AUTh's HPC (for those with an account), by using the same files described above. Use the shell file located in the `/hpc/` directory as well. Edit it according to which implementation you want to run and submit it to the HPC for execution. To do so, run the following command in the shell:
 
 ```
 sbatch <shell_file_name>.sh
 ```
 
-## **4. Google Colab execution**
+## **5. Google Colab execution**
 Another option is using Google Colab (https://colab.research.google.com). The steps are as follows:
 1. Change runtime type to GPU.
 2. Load all files inside the notebook you created.
