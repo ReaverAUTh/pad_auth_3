@@ -45,8 +45,8 @@ sbatch <shell_file_name>.sh
 Another option is using Google Colab (https://colab.research.google.com). The steps are as follows:
 1. Change runtime type to GPU.
 2. Load all files inside the notebook you created.
-3. Type the following in the first code cell and execute it: <%load_ext nvcc_plugin>.
-4. You can use the commands as running it locally, but with a "!" in front of each command. For example: <!make all>
+3. Type the following in the first code cell and execute it: '<%load_ext nvcc_plugin>'.
+4. You can use the commands as running it locally, but with a "!" in front of each command. For example: '<!make all>'
 #
 
 *Refference:* Antoni Buades, Bartomeu Coll, and J-M Morel. A non-local algorithm for image denoising. In 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05), volume 2, pages 60–65. IEEE, 2005.
