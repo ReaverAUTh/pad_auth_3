@@ -6,11 +6,11 @@
 
 A Non-Local-Means algorithm implementation using NVIDIA CUDA.
 
-`**/results/**` contains the results produced by using AUTh's High Performance Computing (HPC) infrastructure.
+`/results/` contains the results produced by using AUTh's High Performance Computing (HPC) infrastructure.
 
-**/results/image_results/** contains the visual results produced by running the implementations. 
+`/results/image_results/` contains the visual results produced by running the implementations. 
 
-**/images/** contains the images used to produce the results.
+`/images/` contains the images used to produce the results.
 
 ## **1. Before using**
 * Pull the directory and save it locally. Within that directory, add an image of strict sizing up to 256x256. The implementations work only for square images. 
