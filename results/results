@@ -1,0 +1,39 @@
+Aristotle University of Thessaloniki
+High Performance Computing (HPC) Infrastructure
+26/02/2021 - Usage Logs
+
+*NLM-Serial Duration = 0.796002 second(s)* || (Pixels, Patch) = (64, 3)
+*NLM-CUDA Duration = 0.058654 second(s)* || (Pixels, Patch) = (64, 3)
+*NLM-CUDA-SHARED Duration = 0.034819 second(s)* || (Pixels, Patch) = (64, 3)
+
+*NLM-Serial Duration = 0.946230 second(s)* || (Pixels, Patch) = (64, 5)
+*NLM-CUDA Duration = 0.101701 second(s)* || (Pixels, Patch) = (64, 5)
+*NLM-CUDA-SHARED Duration = 0.083216 second(s)* || (Pixels, Patch) = (64, 5)
+
+*NLM-Serial Duration = 1.470432 second(s)* || (Pixels, Patch) = (64, 7)
+*NLM-CUDA Duration = 0.147280 second(s)* || (Pixels, Patch) = (64, 7)
+*NLM-CUDA-SHARED Duration = 0.067874 second(s)* || (Pixels, Patch) = (64, 7)
+
+*NLM-Serial Duration = 12.202609 second(s)* || (Pixels, Patch) = (128, 3)
+*NLM-CUDA Duration = 0.168440 second(s)* || (Pixels, Patch) = (128, 3)
+*NLM-CUDA-SHARED Duration = 0.085462 second(s)* || (Pixels, Patch) = (128, 3)
+
+*NLM-Serial Duration = 15.223348 second(s)* || (Pixels, Patch) = (128, 5)
+*NLM-CUDA Duration = 0.181101 second(s)* || (Pixels, Patch) = (128, 5)
+*NLM-CUDA-SHARED Duration = 0.110064 second(s)* || (Pixels, Patch) = (128, 5)
+
+*NLM-Serial Duration = 23.111040 second(s)* || (Pixels, Patch) = (128, 7)
+*NLM-CUDA Duration = 0.414535 second(s)* || (Pixels, Patch) = (128, 7)
+*NLM-CUDA-SHARED Duration = 0.224861 second(s)* || (Pixels, Patch) = (128, 7)
+
+*NLM-Serial Duration = 183.141814 second(s)* || (Pixels, Patch) = (256, 3)
+*NLM-CUDA Duration = 0.703886 second(s)* || (Pixels, Patch) = (256, 3)
+*NLM-CUDA-SHARED Duration = 0.448964 second(s)* || (Pixels, Patch) = (256, 3)
+
+*NLM-Serial Duration = 245.388417 second(s)* || (Pixels, Patch) = (256, 5)
+*NLM-CUDA Duration = 1.267918 second(s)* || (Pixels, Patch) = (256, 5)
+*NLM-CUDA-SHARED Duration = 0.660366 second(s)* || (Pixels, Patch) = (256, 5)
+
+*NLM-Serial Duration = 392.501415 second(s)* || (Pixels, Patch) = (256, 7)
+*NLM-CUDA Duration = 1.808454 second(s)* || (Pixels, Patch) = (256, 7)
+*NLM-CUDA-SHARED Duration = 1.334698 second(s)* || (Pixels, Patch) = (256, 7)
