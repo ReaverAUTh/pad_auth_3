@@ -35,7 +35,7 @@ make all
 Make clean should be used if you have already ran the programs before. Instead of filename type the implementation you want to run. All of the above commands are declared in the Makefile.
 
 ## **3. HPC execution**
-Everything can be run on AUTh's HPC (for those with an account), by using the same files described above. Use the shell file located in the /hpc/ directory as well. Edit it according to which implementation you want to run and submit it to the HPC for execution. To do so, run the following command in the shell:
+Everything can be run on AUTh's HPC (for those with an account), by using the same files described above. Use the shell file located in the `/hpc/` directory as well. Edit it according to which implementation you want to run and submit it to the HPC for execution. To do so, run the following command in the shell:
 
 ```
 sbatch <shell_file_name>.sh
