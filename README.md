@@ -6,7 +6,7 @@
 
 A Non-Local-Means algorithm implementation using NVIDIA CUDA.
 
-**/results/** contains the results produced by using AUTh's High Performance Computing (HPC) infrastructure.
+`**/results/**` contains the results produced by using AUTh's High Performance Computing (HPC) infrastructure.
 
 **/results/image_results/** contains the visual results produced by running the implementations. 
 
