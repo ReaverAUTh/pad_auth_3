@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" height="257" src="https://i.imgur.com/DOgejso.png">
+</p>
+
 # Parallel-Exercise3
 
 #
